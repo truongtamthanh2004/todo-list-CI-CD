@@ -1,8 +1,8 @@
 export const FILTER_ITEMS = [
-  { id: "all", label: "All", iconPath: "./public/inbox.png" },
-  { id: "important", label: "Important", iconPath: "./public/flag.png" },
-  { id: "completed", label: "Completed", iconPath: "./public/check.png" },
-  { id: "deleted", label: "Deleted", iconPath: "./public/delete.png" },
+  { id: "all", label: "All", iconPath: "/inbox.png" },
+  { id: "important", label: "Important", iconPath: "/flag.png" },
+  { id: "completed", label: "Completed", iconPath: "/check.png" },
+  { id: "deleted", label: "Deleted", iconPath: "/delete.png" },
 ];
 
 export const CATEGORY_ITEMS = [
